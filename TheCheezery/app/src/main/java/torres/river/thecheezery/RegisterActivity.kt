@@ -15,7 +15,7 @@ class RegisterActivity : AppCompatActivity() {
         button.setOnClickListener {
             var intent: Intent = Intent(this, MenuActivity::class.java)
             startActivity(intent)
-            
+
 
         }
     }
