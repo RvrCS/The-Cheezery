@@ -113,7 +113,7 @@
             android:textSize="@dimen/menu_buttons_text_size"
             android:paddingVertical="@dimen/menu_buttons_padding_vertical"
             />
-        
+
     </GridLayout>
 
 </LinearLayout>
